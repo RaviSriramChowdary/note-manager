@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/note-manager/static/css/main.5d4bea15.chunk.css",
-    "main.js": "/note-manager/static/js/main.067e46d2.chunk.js",
-    "main.js.map": "/note-manager/static/js/main.067e46d2.chunk.js.map",
+    "main.js": "/note-manager/static/js/main.22f8d9be.chunk.js",
+    "main.js.map": "/note-manager/static/js/main.22f8d9be.chunk.js.map",
     "runtime-main.js": "/note-manager/static/js/runtime-main.04120b19.js",
     "runtime-main.js.map": "/note-manager/static/js/runtime-main.04120b19.js.map",
     "static/js/2.9d65c3e9.chunk.js": "/note-manager/static/js/2.9d65c3e9.chunk.js",
     "static/js/2.9d65c3e9.chunk.js.map": "/note-manager/static/js/2.9d65c3e9.chunk.js.map",
     "index.html": "/note-manager/index.html",
-    "precache-manifest.5fbce0898bf8282af21def900da17bfc.js": "/note-manager/precache-manifest.5fbce0898bf8282af21def900da17bfc.js",
+    "precache-manifest.db2b3a8c831f6b1d43ad23c8d83e1aaa.js": "/note-manager/precache-manifest.db2b3a8c831f6b1d43ad23c8d83e1aaa.js",
     "service-worker.js": "/note-manager/service-worker.js",
     "static/css/main.5d4bea15.chunk.css.map": "/note-manager/static/css/main.5d4bea15.chunk.css.map",
     "static/js/2.9d65c3e9.chunk.js.LICENSE.txt": "/note-manager/static/js/2.9d65c3e9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.04120b19.js",
     "static/js/2.9d65c3e9.chunk.js",
     "static/css/main.5d4bea15.chunk.css",
-    "static/js/main.067e46d2.chunk.js"
+    "static/js/main.22f8d9be.chunk.js"
   ]
 }
