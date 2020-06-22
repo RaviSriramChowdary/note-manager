@@ -57,12 +57,12 @@ class Sidebar extends React.Component {
       });
       return (
          <div className="w35 ibl p50 caps tac">
-            Your Notes
+            MY Notes
             <button
                className="w100 block bgtrans newnote"
                onClick={this.addNote}
             >
-               + NEW NOTE
+               + ADD NOTE
             </button>
             <div className=" sidebar">{notespanel}</div>
          </div>
